@@ -1,7 +1,7 @@
-Name : ANSH RAJ 
+Name : SHUBHAM KUMAR KUSHWAHA 
 Company : CODTECH IT SOLUTIONS 
-ID : CT6WDS74 Domain : VLSI 
-Duration :1st JUNE 2024 to 13th JULY 2024 
+ID : CT6WDS100 Domain : VLSI 
+Duration :1st JUNE 2024 to 13th JULY 2024
 Mentor : SRAVANI GOUNI
 
 ## output for Finite State Machine
